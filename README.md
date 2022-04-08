@@ -16,4 +16,4 @@ _italic_, **bold**, `monospace`.
      
 
 [Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575)
-![stepik](stepik.jpg "icon")
+![stepik](stepik.jpg "stepik")
